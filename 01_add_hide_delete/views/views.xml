@@ -22,6 +22,8 @@
             <field name="type" position="after">
                 <field name="paseo"/>
                 <field name="piel"/>
+                <field name="date_b"/>
+                <field name="is_racism"/>
             </field>
         </field>
     </record>
