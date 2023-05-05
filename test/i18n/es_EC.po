@@ -1,0 +1,108 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* test
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-05 20:02+0000\n"
+"PO-Revision-Date: 2023-05-05 20:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: test
+#: model:ir.model.fields.selection,name:test.selection__ej_pet__type__big
+msgid "Big"
+msgstr "Grande"
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__create_date
+msgid "Created on"
+msgstr "Creado el"
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__id
+msgid "ID"
+msgstr ""
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: test
+#: model:ir.model.fields.selection,name:test.selection__ej_pet__type__medium
+msgid "Medium"
+msgstr "Mediano"
+
+#. module: test
+#: model:ir.ui.menu,name:test.ej_pets_menu
+#: model:ir.ui.menu,name:test.submenu_ej_pets_action
+#: model:ir.ui.menu,name:test.submenu_ej_pets_menu
+msgid "Pets"
+msgstr "Animales"
+
+#. module: test
+#: model_terms:ir.ui.view,arch_db:test.view_ej_pet_form
+msgid "Pets List"
+msgstr "Listado de animales"
+
+#. module: test
+#: model:ir.model.fields.selection,name:test.selection__ej_pet__type__small
+msgid "Small"
+msgstr ""
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__age
+msgid "age"
+msgstr ""
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__color
+msgid "color"
+msgstr ""
+
+#. module: test
+#: model:ir.model,name:test.model_ej_pet
+msgid "ej.pet"
+msgstr ""
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__name
+msgid "name"
+msgstr ""
+
+#. module: test
+#: model:ir.actions.act_window,name:test.act_ej_pet
+msgid "pet"
+msgstr ""
+
+#. module: test
+#: model:ir.model.fields,field_description:test.field_ej_pet__type
+msgid "type"
+msgstr ""
